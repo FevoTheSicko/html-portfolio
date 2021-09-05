@@ -1,0 +1,63 @@
+header{
+    padding: 10px;
+    margin: 0;
+    height: 100px;
+    background-color: aquamarine;
+    font-size: 50px;
+}
+nav{
+    float: right;
+}
+ul{
+    position: relative;
+    display: inline-flex;
+    
+    height: 60px;
+    
+    
+}
+li{
+    font-size: 20px;
+    padding: 10px;
+    list-style-type: none;
+}
+body{
+    margin: 0;
+}
+
+.majorCard{
+    height: 600px;
+    width: 70%;
+    background-color: aquamarine;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+.majorCardTitle{
+font-size: 50px;
+margin: 0 auto;
+text-align: center;
+}
+.majorCardParagraph{
+background-color: white;
+height: 70%;
+width: 70%;
+margin: 0 auto ;
+padding: 10px;
+border-radius: 5px;
+
+}
+
+.mainProject{
+    display: flex;
+height: 250px;
+width: 250px;
+padding: 5px;
+}
+.smallProject{
+    position:relative;
+    
+    height: 150px;
+    width: 150px;
+     padding: 5px;
+     top: 10px;
+}
